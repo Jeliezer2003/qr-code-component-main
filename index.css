@@ -1,0 +1,33 @@
+*{
+   
+}
+body{ 
+  background-color: rgb(214, 226, 240);
+
+}
+.main{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 120px;
+
+
+}
+.attribution{
+  width: 250px;
+  height: 400px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 15px;
+  padding: 5px;
+}
+.imagen1{
+  width: 230px;
+  height: 230px;
+  border-radius: 15px;
+  padding: 7px;
+
+}
+.text1{
+  font-weight: 700  ;
+  font-size: 15px;
+}
